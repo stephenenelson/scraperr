@@ -30,7 +30,7 @@ Scraperr enables you to extract data from websites with precision using XPath se
 - **Media Downloads**: Automatically download images, videos, and other media
 - **Results Visualization**: View scraped data in a structured table format
 - **Data Export**: Export your results in various formats
-- **Notifcation Channels**: Send completion notifcations, through various channels
+- **Notification Channels**: Send completion notifications, through various channels
 
 ## 🚀 Getting Started
 
